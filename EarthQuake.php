@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <!-- Fetching and processing data and using this with Google Maps
      Data feed URLs can be found on following page: https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
      Author: Peter Barrie
